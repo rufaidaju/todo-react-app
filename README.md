@@ -1,5 +1,5 @@
 # Todo React Application
-## Default required todo list application has build during many phases while learning React :
+### Default required todo list application has build during many phases while learning React :
  1. Initialize the React app using React functional component.
  1. Style up the page use regular CSS (in the CSS file) and React Parent/Child practice.
  1. Practice props and mapping components
